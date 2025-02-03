@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/static/css/main.16dd9e54.css",
+    "main.js": "/static/js/main.2e341a16.js",
+    "static/js/563.73c393b5.chunk.js": "/static/js/563.73c393b5.chunk.js",
+    "static/media/Akshay prof photo (1).jpg": "/static/media/Akshay prof photo (1).bd9441ed9f8bce42620a.jpg",
+    "static/media/Akshay_Sharma.pdf": "/static/media/Akshay_Sharma.eed1c160c22076c7a775.pdf",
+    "index.html": "/index.html",
+    "main.16dd9e54.css.map": "/static/css/main.16dd9e54.css.map",
+    "main.2e341a16.js.map": "/static/js/main.2e341a16.js.map",
+    "563.73c393b5.chunk.js.map": "/static/js/563.73c393b5.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.16dd9e54.css",
+    "static/js/main.2e341a16.js"
+  ]
+}
